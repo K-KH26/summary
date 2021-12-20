@@ -1,3 +1,2 @@
 # python-summary
-
-## python 문법 및 공부
+python 문법 및 공부
